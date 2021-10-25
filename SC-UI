@@ -10,7 +10,6 @@ local TextService = game:GetService("TextService")
 local TweenTime = 0.1
 local Level = 1
 
-
 local GlobalTweenInfo = TweenInfo.new(TweenTime)
 local AlteredTweenInfo = TweenInfo.new(TweenTime, Enum.EasingStyle.Sine, Enum.EasingDirection.Out)
 
